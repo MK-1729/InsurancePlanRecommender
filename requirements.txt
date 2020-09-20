@@ -4,3 +4,4 @@ scikit-learn==0.22.1
 streamlit==0.67.0
 pickleshare==0.7.5
 xgboost==0.90
+streamlit
