@@ -129,7 +129,7 @@ def predict_pp2(df_pp2):
     else:
         return 'KidsFlyUp'
 
-
+@st.cache
 def start():
         st.title('Insurance Product Recommender')
         
