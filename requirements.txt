@@ -4,3 +4,4 @@ scipy==1.4.1
 streamlit==0.67.0
 numpy==1.18.1
 xgboost==0.90
+networkx==2.4
