@@ -130,7 +130,7 @@ def predict_pp2(df_pp2):
         return 'KidsFlyUp'
 
 
-def main():
+def start():
         st.title('Insurance Product Recommender')
         
         data = pd.read_csv('initial_preprocess.csv')
@@ -304,4 +304,4 @@ def main():
         
         
 if __name__ =='__main__':
-           main()
+           start()
